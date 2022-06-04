@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 
 # 游戏相关岗位招聘和薪酬（lp）
 
@@ -24,24 +20,24 @@ editor_options:
 
 ## 01.城市分布
 
-![roadmap](PIC1/Rplot01_roadmap.png)\
+![roadmap](Rplot01_roadmap.png)
 
 ## 02.行业分布
 
-![industries](PIC1/Rplot02_industries.png)\
+![industries](Rplot02_industries.png)
 
 ## 03.企业规模
 
-![com_size](PIC1/Rplot03_com_size.png)\
+![com_size](Rplot03_com_size.png)
 
 ## 04.工作经验
 
-![experience](PIC1/Rplot04_experience.png)\
+![experience](Rplot04_experience.png)
 
 ## 05.学历要求
 
-![education](PIC1/Rplot05_education.png)\
+![education](Rplot05_education.png)
 
 ## 06.岗位细分
 
-![subclass](PIC1/Rplot06_subclass.png)
+![subclass](Rplot06_subclass.png)
